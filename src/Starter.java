@@ -9,7 +9,7 @@ public class Starter extends Recipe {
 		this.ingredients = ingredients;
 		this.prepTime = prepTime;
 		this.dishName = dishName;
-	}
+	} 
 	@Override
 	public void prepare() {
 		System.out.println("Initial");

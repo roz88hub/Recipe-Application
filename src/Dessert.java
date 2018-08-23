@@ -32,7 +32,7 @@ public class Dessert extends Recipe {
 		System.out.println("Battering");
 	}
 	public void bake(){
-		System.out.println("baking");
+		System.out.println("baking"); 
 	}
 	public void decorate(){
 		System.out.println("decorating");

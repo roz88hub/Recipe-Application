@@ -16,7 +16,7 @@ public abstract class Recipe<ingredients> {
 	public Recipe(String[] ingredients, double prepTime, String dishName){
 		this.ingredients = ingredients;
 		this.prepTime = prepTime;
-		this.dishName = dishName;
+		this.dishName = dishName; 
 	}
 
 	Recipe(double prepTime){
